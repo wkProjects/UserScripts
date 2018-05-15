@@ -2,7 +2,7 @@
 // @name        WK-Onlineliste
 // @namespace   wkProjects
 // @description Zeigt die Online-Liste auf jeder Original-Loginseite an.
-// @include     http://server*.webkicks.de/*/
+// @include     https://server*.webkicks.de/*/
 // @grant       GM_xmlhttpRequest
 // @connect     webkicks.de
 // @require     http://ajax.googleapis.com/ajax/libs/jquery/2.2.0/jquery.min.js
