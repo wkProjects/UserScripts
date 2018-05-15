@@ -5,7 +5,7 @@
 // @include     https://server*.webkicks.de/*/
 // @grant       GM_xmlhttpRequest
 // @connect     webkicks.de
-// @require     http://ajax.googleapis.com/ajax/libs/jquery/2.2.0/jquery.min.js
+// @require     http://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js
 // @version     1
 // ==/UserScript==
 out = [];
